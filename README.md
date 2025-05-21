@@ -4,14 +4,13 @@
 This project implements TPCH Query 5 using C++ and multithreading. The goal is to process TPCH data efficiently by parallelizing the query execution. Complete the functions in query5.cpp file.
 
 ## Submission (Reply with below info to the assignement mail)
-**1. GitHub Link:** Share the GitHub link with your completed code.
-**Make sure the program compiles and produces the same result as mentioned in point 2.**
+| S.No. | Item          | Description                                                                                                         |
+|--------|---------------|---------------------------------------------------------------------------------------------------------------------|
+| 1      | **GitHub Link**   | Share the GitHub link with your completed code. Make sure the program compiles and produces the same result as mentioned in point 2. |
+| 2      | **Final Result**  | Provide the final result of the query at SF2 (Scale factor 2).                                                      |
+| 3      | **Runtime**       | Share the runtime numbers for both single-threaded and 4-threaded execution.                                        |
+| 4      | **Screenshot**    | Attach a screenshot showing the program running with the result visible.                                            |
 
-**2. Final Result:** Provide the final result of the query at SF2 (Scale factor 2).
-
-**3. Runtime:** Share the runtime numbers for both single-threaded and 4-threaded execution.
-
-**4. Screenshot:** Attach a screenshot showing the program running with the result visible.
 
 ## Query 5
 ```
