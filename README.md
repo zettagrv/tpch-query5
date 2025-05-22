@@ -1,9 +1,15 @@
 # TPCH Query 5 C++ Multithreading Project
 
 ## Overview
-This project implements TPCH Query 5 using C++ and multithreading. The goal is to process TPCH data efficiently by parallelizing the query execution. Complete the functions in query5.cpp file.
+Task is to implement TPCH Query 5 using C++ and multithreading. 
+1. Understand the query 5 given below.
+2. Generate input data for the query using [TPCH Data Generation Tool](https://github.com/electrum/tpch-dbgen)
+3. Clone the current repository to your personal github.
+4. Complete the incomplete functions in query5.cpp file
+5. Compile and run the program. Capture the result with single thread and 4 thread.
+6. Share the link of your completed repository in email with below mentioned information.
 
-## Submission (Reply with below info to the assignment mail)
+## Submission (Reply with below information to the assignment email)
 | S.No. | Item          | Description                                                                                                         |
 |--------|---------------|---------------------------------------------------------------------------------------------------------------------|
 | 1      | **GitHub Link**   | Share the GitHub link with your completed code. Make sure the program compiles and produces the same result as mentioned in point 2. |
@@ -11,6 +17,7 @@ This project implements TPCH Query 5 using C++ and multithreading. The goal is t
 | 3      | **Runtime**       | Share the runtime numbers for both single-threaded and 4-threaded execution.                                        |
 | 4      | **Screenshot**    | Attach a screenshot showing the program running with the result visible.                                            |
 
+>**Note : Submissions without above 4 details would be considered as incomplete** 
 
 ## Query 5
 ```
